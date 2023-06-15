@@ -9,7 +9,3 @@ Testando repo
 TAG 1
 
 TAG 2
-
-TAG 3
-
-TAG 4
