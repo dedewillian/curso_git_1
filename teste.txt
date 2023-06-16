@@ -15,3 +15,5 @@ TAG 3
 TAG 4
 
 TAG 5
+
+select * from TEste where 1 = 1
