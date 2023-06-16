@@ -17,3 +17,5 @@ TAG 4
 TAG 5
 
 select * from Teste where 2 = 2
+
+select * from A
