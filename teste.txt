@@ -19,3 +19,5 @@ TAG 5
 select * from Teste where 2 = 2
 
 select id, name, registryDate from A
+
+select * from TESTE
